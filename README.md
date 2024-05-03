@@ -1,11 +1,19 @@
 **Problem Statement**
 
-	Despite the paramount importance of leaf counting in understanding plant growth dynamics and its significant role in agricultural research and crop improvement, the current methods for leaf counting are labor-intensive and time-consuming. Traditional manual methods are prone to errors and are not scalable to meet the demands of modern agriculture, where efficiency and precision are crucial for optimizing crop yield potential. There is an urgent need to develop an automated leaf counting system that can accurately and efficiently quantify leaf numbers, thereby overcoming the limitations of traditional monitoring methods. This automated system must address the inefficiencies associated with manual counting, streamline the process of phenotypic analysis, and contribute to advancing our understanding of plant biology and optimizing agricultural strategies for enhanced food security.
+  Despite the paramount importance of leaf counting in understanding plant growth dynamics and 
+  its significant role in agricultural research and crop improvement, the current methods for 
+  leaf counting are labor-intensive and time-consuming; traditional manual methods are prone to 
+  errors and are not scalable to meet the demands of modern agriculture, where efficiency and 
+  precision are crucial for optimizing crop yield potential; thus, there is an urgent need to 
+  develop an automated leaf counting system that can accurately and efficiently quantify leaf 
+  numbers, thereby overcoming the limitations of traditional monitoring methods, streamlining 
+  the process of phenotypic analysis, and contributing to advancing our understanding of plant 
+  biology and optimizing agricultural strategies for enhanced food security.
 
 
 **Objectives of the project**
 
-	The primary objective of the project is to develop an automated leaf counting system for
+  The primary objective of the project is to develop an automated leaf counting system for
 	plant phenotyping using deep learning techniques. This system aims to address the
 	inefficiencies of manual leaf counting methods by automating the process, thereby
 	streamlining agricultural research and improving crop management practices. By
